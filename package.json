@@ -1,0 +1,22 @@
+{
+  "name": "system-bot",
+  "version": "2.2.0",
+  "description": "Discord Systembot V2",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "D0dge#0187",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cookie-parser": "^1.4.6",
+    "discord-html-transcripts": "^3.1.5",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "fs": "^0.0.1-security",
+    "serve-favicon": "^2.5.0"
+  }
+}
